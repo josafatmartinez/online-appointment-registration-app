@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/online-appointment-registration-app/static/css/main.073c9b0a.css",
+    "main.js": "/online-appointment-registration-app/static/js/main.73166d56.js",
+    "static/js/787.541212d4.chunk.js": "/online-appointment-registration-app/static/js/787.541212d4.chunk.js",
+    "service-worker.js": "/online-appointment-registration-app/service-worker.js",
+    "static/media/logo.svg": "/online-appointment-registration-app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/online-appointment-registration-app/index.html",
+    "main.073c9b0a.css.map": "/online-appointment-registration-app/static/css/main.073c9b0a.css.map",
+    "main.73166d56.js.map": "/online-appointment-registration-app/static/js/main.73166d56.js.map",
+    "787.541212d4.chunk.js.map": "/online-appointment-registration-app/static/js/787.541212d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.73166d56.js"
+  ]
+}
