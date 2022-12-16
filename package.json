@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Josafat Mtz - josamtz@outlook.com",
-  "homepage": "https://JosafatCMtz.github.io/online-appointment-registration-app",
+  "homepage": "https://josafatcmtz.github.io/online-appointment-registration-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
