@@ -1,9 +1,9 @@
 {
-  "name": "app-error-codes",
+  "name": "online-appointment-registration-app",
   "version": "0.1.0",
   "private": true,
-  "author": "Josafat Mtz - victor_josafat.castro@daimler.com",
-  "homepage": "https://git.t3.daimlertruck.com/pages/vcastr/app-error-codes",
+  "author": "Josafat Mtz - josamtz@outlook.com",
+  "homepage": "https://JosafatCMtz.github.io/online-appointment-registration-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
